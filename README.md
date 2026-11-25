@@ -2,8 +2,6 @@
 
 Trabalho da disciplina de Sistemas Operacionais (FURB). Java 17+ e Swing, sem dependências externas.
 
-![Tela principal do simulador](docs/tela-principal.png)
-
 ## Sumário
 
 - [Introdução](#introdução)
