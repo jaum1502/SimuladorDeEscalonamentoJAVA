@@ -1,0 +1,8 @@
+# Simulador de Escalonamento - conjunto de processos
+# Rajadas alternam CPU e E/S: "3,4,2" = 3 de CPU, 4 de E/S, 2 de CPU.
+# PID;Chegada;Prioridade;Rajadas
+1;0;3;6,3,2
+2;1;1;3
+3;2;4;8
+4;3;2;2,4,2
+5;5;5;4

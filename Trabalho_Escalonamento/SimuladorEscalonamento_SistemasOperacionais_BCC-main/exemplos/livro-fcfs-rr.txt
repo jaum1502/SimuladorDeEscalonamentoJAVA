@@ -1,0 +1,7 @@
+# Simulador de Escalonamento - conjunto de processos
+# Rajadas alternam CPU e E/S: "3,4,2" = 3 de CPU, 4 de E/S, 2 de CPU.
+# PID;Chegada;Prioridade;Rajadas
+# Silberschatz: FCFS e Round Robin (q=4). Espera média: FCFS 17,00 / RR 5,67
+1;0;0;24
+2;0;0;3
+3;0;0;3

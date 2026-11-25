@@ -1,0 +1,9 @@
+# Simulador de Escalonamento - conjunto de processos
+# Rajadas alternam CPU e E/S: "3,4,2" = 3 de CPU, 4 de E/S, 2 de CPU.
+# PID;Chegada;Prioridade;Rajadas
+# Silberschatz: Prioridade não preemptiva. Espera média 8,20
+1;0;3;10
+2;0;1;1
+3;0;4;2
+4;0;5;1
+5;0;2;5

@@ -1,0 +1,8 @@
+# Simulador de Escalonamento - conjunto de processos
+# Rajadas alternam CPU e E/S: "3,4,2" = 3 de CPU, 4 de E/S, 2 de CPU.
+# PID;Chegada;Prioridade;Rajadas
+# Silberschatz: SJF. Espera média 7,00
+1;0;0;6
+2;0;0;8
+3;0;0;7
+4;0;0;3

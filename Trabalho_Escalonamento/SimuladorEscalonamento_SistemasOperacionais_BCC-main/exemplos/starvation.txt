@@ -1,0 +1,20 @@
+# Simulador de Escalonamento - conjunto de processos
+# Rajadas alternam CPU e E/S: "3,4,2" = 3 de CPU, 4 de E/S, 2 de CPU.
+# PID;Chegada;Prioridade;Rajadas
+# Starvation: P1 de baixa prioridade contra 15 processos prioritários. Compare Prioridade com e sem aging
+1;0;9;3
+2;0;1;2
+3;2;1;2
+4;4;1;2
+5;6;1;2
+6;8;1;2
+7;10;1;2
+8;12;1;2
+9;14;1;2
+10;16;1;2
+11;18;1;2
+12;20;1;2
+13;22;1;2
+14;24;1;2
+15;26;1;2
+16;28;1;2

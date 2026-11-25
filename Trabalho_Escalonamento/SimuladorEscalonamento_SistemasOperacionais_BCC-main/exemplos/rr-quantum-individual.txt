@@ -1,0 +1,10 @@
+# Simulador de Escalonamento - conjunto de processos
+# Rajadas alternam CPU e E/S: "3,4,2" = 3 de CPU, 4 de E/S, 2 de CPU.
+# Exemplo da aula com quantum individual no Round Robin: P1 usa 4 e P3 usa 8; os outros usam o quantum padrão.
+# Com quantum padrão 2: espera média 13,00 (sem os quantums individuais seria 11,60).
+# PID;Chegada;Prioridade;Rajadas;Quantum (vazio = quantum padrão)
+1;0;3;6,3,2;4
+2;1;1;3;
+3;2;4;8;8
+4;3;2;2,4,2;
+5;5;5;4;
